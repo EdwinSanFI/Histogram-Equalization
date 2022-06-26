@@ -3,9 +3,9 @@ Histogram equalization is a method in image processing of contrast adjustment us
 
 ## Image 1 grayscale
 <div align="center">
-    <p>Before</p>
+    <h4>Before</h4>
     <img src="/Imagenes/imaGray_1.jpg">
-    <p>After</p>
+    <h4>After</h4>
     <img src="/Imagenes/imaGray_1_eq_secuencial.jpg">
 </div>
 
