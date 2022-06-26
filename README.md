@@ -3,7 +3,9 @@ Histogram equalization is a method in image processing of contrast adjustment us
 
 ## Image 1 grayscale
 <div align="center">
+    <p>Before</p>
     <img src="/Imagenes/imaGray_1.jpg">
+    <p>After</p>
     <img src="/Imagenes/imaGray_1_eq_secuencial.jpg">
 </div>
 
@@ -25,19 +27,19 @@ Histogram equalization is a method in image processing of contrast adjustment us
     <img src="/Imagenes/imaGray_4_eq_secuencial.jpg">
 </div>
 
-## Image 1 rgbscale
+## Image 1 RGBscale
 <div>
     <img src="/Imagenes/imaRGB_1.jpg">
     <img src="/Imagenes/imaRGB_1_eq_secuencial.jpg">
 </div>
 
-## Image 2 rgbscale
+## Image 2 RGBscale
 <div>
     <img src="/Imagenes/imaRGB_2.jpg">
     <img src="/Imagenes/imaRGB_2_eq_secuencial.jpg">
 </div>
 
-## Image 3 rgbscale
+## Image 3 RGBscale
 <div>
     <img src="/Imagenes/imaRGB_3.jpg">
     <img src="/Imagenes/imaRGB_3_eq_secuencial.jpg">
