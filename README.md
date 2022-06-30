@@ -33,12 +33,25 @@ Histogram equalization is a method in image processing of contrast adjustment us
 
 ## Image 2 RGBscale
 <div align="center">
-    <img src="/Imagenes/imaRGB_2.jpg" height="250px">
-    <img src="/Imagenes/imaRGB_2_eq_secuencial.jpg" height="250px">
+    <div>
+        <img src="/Imagenes/imaRGB_2.jpg" height="250px">
+        <img src="/Imagenes/imaRGB_2_eq_secuencial.jpg" height="250px">
+    </div>
+    <div>
+        <img src="/Graficas/imaRGB_2_histo_secuencial_img_original.png" height="250px">
+        <img src="/Graficas/imaRGB_2_histo_secuencial_img_nuevo.png" height="250px">
+    </div>
+
 </div>
 
 ## Image 3 RGBscale
 <div align="center">
-    <img src="/Imagenes/imaRGB_3.jpg" height="250px">
-    <img src="/Imagenes/imaRGB_3_eq_secuencial.jpg" height="250px">
+    <div>
+        <img src="/Imagenes/imaRGB_3.jpg" height="250px">
+        <img src="/Imagenes/imaRGB_3_eq_secuencial.jpg" height="250px">
+    </div>
+    <div>
+        <img src="/Graficas/imaRGB_3_histo_secuencial_img_original.png" height="250px">
+        <img src="/Graficas/imaRGB_3_histo_secuencial_img_nuevo.png" height="250px">
+    </div>
 </div>
