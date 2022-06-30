@@ -3,20 +3,20 @@ Histogram equalization is a method in image processing of contrast adjustment us
 
 ## Image 1 grayscale
 <div align="center">
-    <img src="/Imagenes/imaGray_1.jpg" height="280px">
-    <img src="/Imagenes/imaGray_1_eq_secuencial.jpg" height="280px">
+    <img src="/Imagenes/imaGray_1.jpg" height="250px">
+    <img src="/Imagenes/imaGray_1_eq_secuencial.jpg" height="250px">
 </div>
 
 ## Image 2 grayscale
 <div align="center">
-    <img src="/Imagenes/imaGray_2.jpg" height="280px">
-    <img src="/Imagenes/imaGray_2_eq_secuencial.jpg" height="280px">
+    <img src="/Imagenes/imaGray_2.jpg" height="250px">
+    <img src="/Imagenes/imaGray_2_eq_secuencial.jpg" height="250px">
 </div>
 
 ## Image 3 grayscale
 <div align="center">
-    <img src="/Imagenes/imaGray_3.jpg" height="280px">
-    <img src="/Imagenes/imaGray_3_eq_secuencial.jpg" height="280px">
+    <img src="/Imagenes/imaGray_3.jpg" height="250px">
+    <img src="/Imagenes/imaGray_3_eq_secuencial.jpg" height="250px">
 </div>
 
 ## Image 4 grayscale
