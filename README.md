@@ -1,6 +1,14 @@
 # Histogram-Equalization
 Histogram equalization is a method in image processing of contrast adjustment using the image's histogram.
 
+# Table of Contents
+- [Overview](#)
+- [Get Started](#)
+- [How does it work?](#)
+    - [Formula](#)
+    - [Images](#)
+- [Contributing](#)
+
 ## Image 1 grayscale
 <div align="center">
     <div>
