@@ -138,4 +138,11 @@ To learn more about histogram equalization and image processing techniques, chec
 
 * [Wikipedia: Histogram Equalization](https://en.wikipedia.org/wiki/Histogram_equalization)
 
-Discover the power of histogram equalization for enhancing image contrast with this demo!
+## Contributions & Feedback :speech_balloon:
+
+I appreciate any feedback and suggestions to improve my projects, as well as contributions to the code. Feel free to create an issue or submit a pull request if you'd like to contribute.
+
+## Connect With Me :handshake:
+If you have any questions, want to discuss ideas or just want to connect, feel free to reach out to me on [LinkedIn](linkedin.com/in/edwin-san/), [GitHub](https://github.com/EdwinSanFI), [Twitter](https://twitter.com/home), [Instagram](instagram.com/edwinsanfi/).
+
+<p align="center"> Thank you for visiting my Histogram Equalization repository, and I hope you enjoy learning! :smiley: </p>
