@@ -1,7 +1,7 @@
 # Histogram Equalization
 
 <p align="center">
-<img src="/src/assets/Repos/Image-Eq.png">
+<img src="Imagenes/Image-Eq.png">
 </p>
 
 This project showcases the implementation of the histogram equalization method using C and Python. The method is a popular technique for improving image contrast by redistributing pixel intensity values. This demo includes visualizations created with Matplotlib to display the differences in image contrast before and after applying the histogram equalization method.
