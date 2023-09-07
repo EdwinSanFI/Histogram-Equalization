@@ -1,4 +1,4 @@
-# Histogram Equalization
+<h1 algin="center">📸 Histogram Equalization 📸</h1>
 
 <p align="center">
 <img src="Imagenes/Image-Eq.png">
